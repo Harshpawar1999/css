@@ -1,0 +1,14 @@
+
+.container {
+    height: 500px;
+    width: 500px;
+    background-color:lightgrey;
+    margin: 40px auto 0 auto;
+ }
+ .sign {
+     text-align: center;
+ }
+ h1{
+     background-color: royalblue;
+ }
+ 

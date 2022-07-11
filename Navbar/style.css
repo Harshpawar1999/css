@@ -1,0 +1,65 @@
+
+
+.nav {
+    background-color: aliceblue;
+    height: 40px;
+    width:100%;
+    position: relative;
+    
+}
+
+.home {
+    font-size: 30px;
+    display: inline;
+    margin: auto;
+    padding: auto;
+}
+
+.contact {
+    font-size: 30px;
+    display: inline;
+    margin: 0 10px 0 5px;
+    padding: auto;
+}
+
+.about {
+    font-size: 30px;
+    display: inline;
+    margin: 0 10px 0 5px;
+    padding: auto;
+}
+
+img {
+    display: inline;
+    width: 40px;
+    margin: 0 10px 0 5px;
+    padding: auto;
+    position: absolute;
+    right: 0px;
+
+}
+
+
+.relative {
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    /* position: relative; */
+  
+}
+
+.absolute {
+    width:200px;
+    height: 200px;
+    background-color: coral;
+    /* position: absolute; */
+    padding: 50px;
+    margin: auto;
+   
+}
+
+
+h1{
+    text-align: center;
+   
+}
